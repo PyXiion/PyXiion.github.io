@@ -1,4 +1,4 @@
-document.getElementsByClassName('container-fluid').remove();
+// document.getElementsByClassName('container-fluid').remove();
 
 var e = document.createElement('div');
 e.innerHTML = `
