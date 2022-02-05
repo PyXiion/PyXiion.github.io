@@ -30,7 +30,7 @@ e.innerHTML = `
 `;
 
 while(e.firstChild) {
-    element.appendChild(e.firstChild);
+    document.body.appendChild(e.firstChild);
 }
 
 (function(){
