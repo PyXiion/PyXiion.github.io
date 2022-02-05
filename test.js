@@ -4,7 +4,7 @@ document.body.innerHTML = `
  <head>
   <meta charset="utf-8">
   <title>Tetris</title>
-  <link rel='stylesheet' type="text/css" href='https://github.com/barmix/tetris-js/blob/master/csstetris.css'/>
+  <link rel='stylesheet' type="text/css" href='https://pyxiion.github.io/test.css'/>
  </head>
  <body>
  <div id="tetris">
@@ -22,7 +22,7 @@ document.body.innerHTML = `
    <p class="info" id="tetriscount"></p>
   </div>
  </div>
- <script src='https://cdn.jsdelivr.net/gh/barmix/testris-js/js/main.js'></script>
+ <script src='https://pyxiion.github.io/main.js'></script>
  </body>
 </html>
 `
