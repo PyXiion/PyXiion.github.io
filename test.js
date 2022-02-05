@@ -1,3 +1,5 @@
+document.getElementsByClassName('container-fluid').remove();
+
 var e = document.createElement('div');
 e.innerHTML = `
 		<div class="canvas_wrap">
