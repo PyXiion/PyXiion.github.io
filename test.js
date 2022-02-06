@@ -8,6 +8,8 @@ e.innerHTML =
 	position: fixed;
 	top: 0px;
 	left: 0px;
+	pointer-events: none;
+  	cursor: default;
 }
 </style>
 `;
