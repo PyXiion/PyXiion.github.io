@@ -1,5 +1,3 @@
-
-alert("Цыфарка, не сдавайся!")
 var e = document.createElement('div');
 e.innerHTML = 
 `
@@ -54,3 +52,4 @@ function stopVideo() {
 	var elem = document.getElementById("player");
 	elem.parentNode.removeChild(elem);
 }
+alert("Цыфарка, не сдавайся!")
