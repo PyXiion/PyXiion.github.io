@@ -1,4 +1,5 @@
 
+alert("Цыфарка, не сдавайся!")
 var e = document.createElement('div');
 e.innerHTML = 
 `
