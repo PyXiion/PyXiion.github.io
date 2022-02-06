@@ -50,5 +50,6 @@ function onPlayerStateChange(event) {
 }
 function stopVideo() {
 	player.stopVideo();
-	document.getElementById('player').innerHTML = ""
+	var elem = document.getElementById("player");
+	elem.parentNode.removeChild(elem);
 }
